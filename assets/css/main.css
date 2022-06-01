@@ -2032,6 +2032,18 @@ input, select, textarea {
 				.wrapper.style4 form textarea:focus {
 					background: #252525;
 				}
+		.wrapper.style5 {
+			background-color: #55CDFC;
+			text-shadow: 1px 1px 0px #fff;
+		}
+		.wrapper.style6 {
+			background-color: #ffffff;
+			text-shadow: 1px 1px 0px #fff;
+		}
+		.wrapper.style7 {
+			background-color: #F7A8B8;
+			text-shadow: 1px 1px 0px #fff;
+		}
 
 /* Nav */
 
